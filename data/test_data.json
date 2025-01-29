@@ -1,0 +1,36 @@
+{
+    "user1": {
+        "firstname": "Jim",
+        "lastname": "Brown",
+        "totalprice": 5685678,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2018-01-01",
+            "checkout": "2019-01-01"
+        },
+        "additionalneeds": "Breakfast"
+    },
+
+    "user2": {
+        "firstname": "Alex",
+        "lastname": "Mike",
+        "totalprice": 234324,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2018-01-01",
+            "checkout": "2019-01-01"
+        },
+        "additionalneeds": "Breakfast"
+    },
+      "user3": {
+        "firstname": "Henreq",
+        "lastname": "Alen",
+        "totalprice": 156711,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2018-01-01",
+            "checkout": "2019-01-01"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

@@ -10,16 +10,16 @@ Question:
 ---------------------------------------
 Steps:
 1. Clone/ download the repo into local machine.
-2. Go to BT_heroku/data/test_data.json
+2. Go to BT_restfull_booker/data/test_data.json
     1. Initilize the 3 users data.
     Note: if not initilized it will take the current default value.
-3. Go to BT_heroku/data/test_data.ini
+3. Go to BT_restfull_booker/data/test_data.ini
         modify the below parameter as per the testcase for user1 and user2.
         Example 1:
        modify_totalprice = 1000
        depositpaid = True
        additionalneeds = Lunch
-4. Launch the command prompt at BT_heroku
+4. Launch the command prompt at BT_restfull_booker
 5. Create vitural env- python -m venv venv
 6. Active the vitural env-
     MAC- source venv/bin/activate
